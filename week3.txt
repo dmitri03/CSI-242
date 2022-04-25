@@ -1,0 +1,6 @@
+Week 1 Update:
+
+Passcodes: Magnetic, Electric
+Participation : 
+1) watched Tuesday's and Tursdays on Application Architecture and animation using setInterval and setTimeout
+Self-directed learning: Completed the Codecademy conditionals, variables, and functions (all required sactions)
