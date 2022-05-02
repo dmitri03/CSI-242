@@ -1,1 +1,6 @@
-pascode: Eclipse
+Week 4 Update:
+
+Passcodes: Eclipse, Strife
+Participation : 
+1) watched Tuesday's and Thursday's lectures
+Self-directed learning: Started working on the calculator application and completed the scope chapter on Codecademy
