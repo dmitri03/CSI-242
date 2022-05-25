@@ -1,0 +1,6 @@
+Week 7 Update:
+
+Passcodes: Deep, Notebook
+Participation : 
+1) watched Tuesday's and Thursday's lectures
+Self-directed learning: working on checkers app, reading about prototypes, asynchronous functions, and callbacks
