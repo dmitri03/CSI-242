@@ -1,0 +1,6 @@
+Week 8 Update:
+
+Passcodes: Wave
+Participation : 
+1) Started learning about React with Matt's fascinating lecture on Tuesday
+Self-directed learning: Read first two(introductory) chapters about React on MDN 
